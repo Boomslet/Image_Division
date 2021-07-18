@@ -4,7 +4,7 @@ a new image file for the four quarters of
 each image file in the current directory
 
 Author: Mark Boon
-Date: 18/0/2018
+Date: 18/06/2018
 Version: 1.0.1
 """
 
